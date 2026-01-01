@@ -110,3 +110,8 @@ This Interactive Quiz Application demonstrates how **frontend design** and **bac
 ---
 
 ✅ **Author:** Kannan
+
+
+## OUTPUT ##
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 1, 2026, 10_36_55 AM" src="https://github.com/user-attachments/assets/177629cf-1255-438d-adee-21d1b59232d9" />
